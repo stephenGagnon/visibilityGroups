@@ -1,0 +1,4 @@
+name = "visibilityGroups"
+uuid = "dde82544-3cd7-4f96-a535-ddb3fa36ba29"
+authors = ["Stephen Gagnon <srgagnon@buffalo.edu>"]
+version = "0.1.0"
