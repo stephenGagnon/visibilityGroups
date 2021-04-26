@@ -1,6 +1,5 @@
 module visibilityGroups
 
-using lightCurveOptimization
 using attitudeFunctions
 using LinearAlgebra
 
