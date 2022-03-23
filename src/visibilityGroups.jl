@@ -2,9 +2,9 @@ module visibilityGroups
 
 using attitudeFunctions
 using LinearAlgebra
+using lightCurveModeling
 # using Infiltrator
 
-import lightCurveOptimization: spaceScenario, targetObject
 import Base.==
 
 export findVisGroup, _findVisGroup, findAllVisGroups, findAllVisGroupsN, visibilityGroup, sunVisGroupClustering, sunVisGroup, visGroupClustering, findSunVisGroup
